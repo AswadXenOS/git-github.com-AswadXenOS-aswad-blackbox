@@ -5,7 +5,6 @@
 echo "🚀 Memulakan auto-setup penuh..."
 
 1. Ke root home
-
 cd ~
 
 2. Pasang pakej asas
